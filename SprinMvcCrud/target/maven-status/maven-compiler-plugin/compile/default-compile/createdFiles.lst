@@ -1,0 +1,16 @@
+com\demo\dao\implement\AuthorDAOImpl.class
+com\demo\dao\layer\BookDAO.class
+com\demo\controller\BookController.class
+com\demo\models\Book.class
+com\demo\models\Users.class
+com\demo\dao\layer\UserDAO.class
+com\demo\dao\layer\UsersRolesDAO.class
+com\demo\models\Author.class
+com\demo\controller\loginController.class
+com\demo\dao\layer\AuthorDAO.class
+com\demo\dao\implement\BookDAOImpl.class
+com\demo\dao\implement\UsersRolesDAOImpl.class
+com\demo\controller\AuthorController.class
+com\demo\dao\implement\UserDAOImpl.class
+com\demo\security\SecurityConfiguration.class
+com\demo\models\UsersRoles.class

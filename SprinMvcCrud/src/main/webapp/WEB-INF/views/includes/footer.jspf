@@ -1,0 +1,18 @@
+
+<footer class="page-footer">	
+	<div class="footer-copyright">
+		<div class="container">
+			© 2022 Copyright @aizen <a class="grey-text text-lighten-4 right"
+				href="https://www.linkedin.com/in/abdellah-belcaid/">@Belcaid_Linkden</a>
+		</div>
+	</div>
+</footer>
+
+
+<!-- this script is for select initializer -->
+<script type="text/javascript">
+	document.addEventListener('DOMContentLoaded', function() {
+		var elems = document.querySelectorAll('select');
+		var instances = M.FormSelect.init(elems);
+	});
+</script>
